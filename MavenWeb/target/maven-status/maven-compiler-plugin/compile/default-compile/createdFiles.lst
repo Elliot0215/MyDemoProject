@@ -1,0 +1,10 @@
+com\wp\servlet\Update.class
+com\wp\Factory\DAOFactory.class
+com\wp\service\serviceimpl\UserDAOServiceImpl.class
+com\wp\dbc\GetDBConnection.class
+com\wp\dao\UserDAO.class
+com\wp\dao\daoImpl\UserDAOImpl.class
+com\wp\Factory\ServiceFactory.class
+com\wp\service\UserDAOService.class
+com\wp\servlet\UserList.class
+com\wp\vo\User.class
